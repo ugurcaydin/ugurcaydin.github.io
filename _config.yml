@@ -23,7 +23,7 @@ author:
   avatar           : "profile.png"
   name             : "Ugur Aydin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  #bio              : "Short biography for the left-hand sidebar"
   location         : "CT, USA"
   employer         : "University of Connecticut"
   uri              : # URL
