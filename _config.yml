@@ -11,7 +11,7 @@ title                    : "Ugur Aydin's webpage"
 title_separator          : "-"
 name                     : &name "Ugur Aydin"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ugurcaydin.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ugurcaydin.github.io"
 
