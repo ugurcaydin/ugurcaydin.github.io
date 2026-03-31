@@ -1,7 +1,7 @@
 ---
 title: "Variational Contraction Conditions for Iterative Algorithms in Multi-Population Discrete-Time Regularized Mean-Field Games"
 collection: publications
-permalink: /publication/variational_contraction
+permalink: /files/variational.pdf
 excerpt: '     In this work, we study the contraction conditions of iterative algorithms for stationary and finite-horizon discrete-time regularized mean-field games (MFGs) with multiple populations, where each population only interacts with the state distributions of the other populations. Due to the high dimensionality caused by the interaction of different populations, contraction rates for these algorithms cannot, in general, be expressed in terms of radicals. By studying the dynamics of these iterative algorithms and assuming that the system components of each population’s MFG are Lipschitz continuous, we present explicit (eventual) contraction conditions for each algorithm in any normed space, relying only on these Lipschitz parameters. As a consequence of these contraction conditions, we provide convergence rates of finite-horizon mean-field equilibria to infinite-horizon stationary (and nonstationary) mean-field equilibria (MFEs), under restrictions on a variational characterization of the dynamics of these iterative algorithms. In the single-population case, the restrictions we impose on this variational characterization to obtain these convergence results are less restrictive than previous results in the literature.'
 date: 2026-03-30
 venue: 'Submitted to CDC'
